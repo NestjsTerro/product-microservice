@@ -1,8 +1,8 @@
 
 # Product  microservice
 ## DEV
-1º Clonar el repositorio
-2º Instalar dependencias
-3º Crear un archivo .env basado en example.env
-4º Ejecutar migracion prisma "npx prisma migration dev"
-5º Ejecutar npm run start:dev
+1. Clonar el repositorio
+2. Instalar dependencias
+3. Crear un archivo .env basado en example.env
+4. Ejecutar migracion prisma "npx prisma migration dev"
+5. Ejecutar npm run start:dev
